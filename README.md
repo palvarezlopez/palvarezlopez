@@ -1,4 +1,4 @@
-[![Pablo Alvarez Lopez's GitHub stats](https://github-readme-stats.vercel.app/api?username=palvarezlopez)](https://github.com/palvarezlopez)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palvarezlopez)](https://github.com/palvarezlopez)
 
 
 <!--
