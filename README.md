@@ -1,17 +1,11 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palvarezlopez)](https://github.com/palvarezlopez)
+Software Developer specialized in mobility simulation and Intelligent Transportation Systems (ITS).
 
+### What I Do
+- Core Developer of [Eclipse SUMO](https://github.com/eclipse-sumo/sumo), the leading open-source microscopic traffic simulation suite.
+- Contributing to the DLR Institute of Transportation Systems, developing robust software solutions for large-scale urban mobility.
+- Expert in C++, python and cross-platform development, with a focus on simulation accuracy and performance.
 
-<!--
-**palvarezlopez/palvarezlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Skills
+- **Primary Languages:** C++, Python, Matlab
+- **Domains:** Traffic Engineering, Software Architecture, Open Source Maintenance
+- **Tools:** Git, CMake, CI/CD (GitHub Actions), SVN
